@@ -1,4 +1,3 @@
-appengine-skeleton
-=============================
+gaeskeleton-maven
 
-This is a generated application from the appengine-skeleton archetype.
+GAE Skeleton that uses Maven for build management and several environments to work with
